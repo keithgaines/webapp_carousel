@@ -10,7 +10,7 @@ app.use(bodyParser.urlencoded({extended: false})); app.use(express.static(path.j
 const server = http.createServer(app);
 server.listen(port);
 
-app.get('/', express.static(path.join(__dirname, "/public")));
+app.get('/', express.static(path.join(__dirname, "public")));
 
 app.get('/', (req, res) => {
     res.sendFile(__dirname + '/index.html')
