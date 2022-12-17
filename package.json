@@ -16,7 +16,4 @@
     "url": "https://github.com/keithgaines/creativelandingpage/issues"
   },
   "homepage": "https://github.com/keithgaines/creativelandingpage#readme",
-  "dependencies": {
-    "mocha": "10.2.0"
-  }
 }
