@@ -14,5 +14,8 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/keithgaines/creativelandingpage/issues"
+  },
+  "dependencies": {
+    "mocha": "^10.2.0"
   }
 }
