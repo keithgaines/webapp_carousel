@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'gallerylandingpage'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9DC26DBBCA2345DFB6491FBCE597018E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_13D7C8DD3A184221926C7B6D376C3E1D }}
           package: .
